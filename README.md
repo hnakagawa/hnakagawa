@@ -3,10 +3,6 @@
   Repository: hnakagawa/hnakagawa
 -->
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=hnakagawa&fontSize=48&fontColor=ffffff&animation=fadeIn" />
-
 # Hi, I'm hnakagawa 👋
 
 ### Owner of Spicescode, Inc.
@@ -24,10 +20,6 @@
   <a href="https://corp.spicescode.co.jp/">
     <img src="https://img.shields.io/badge/Owner-hnakagawa-111111?style=for-the-badge" alt="Owner hnakagawa" />
   </a>
-</p>
-
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=760&lines=Owner+of+SpicesCode%2C+Inc.;Building+a+startup+company+through+software+and+business;Feel+free+to+contact+me+about+SpicesCode" alt="Typing SVG" />
 </p>
 
 </div>
