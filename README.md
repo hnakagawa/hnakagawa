@@ -7,12 +7,6 @@
 
 ### Owner of Spicescode, Inc.
 
-<p>
-  <a href="https://corp.spicescode.co.jp/">
-    <img src="https://img.shields.io/badge/SpicesCode%2C%20Inc.-Startup%20Company-764ba2?style=for-the-badge" alt="Spicescode, Inc." />
-  </a>
-</p>
-
 ---
 
 ## About
