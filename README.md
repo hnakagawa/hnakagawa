@@ -8,21 +8,10 @@
 ### Owner of Spicescode, Inc.
 
 <p>
-  <a href="https://github.com/hnakagawa">
-    <img src="https://komarev.com/ghpvc/?username=hnakagawa&style=flat-square&color=blue" alt="Profile views" />
-  </a>
-</p>
-
-<p>
   <a href="https://corp.spicescode.co.jp/">
     <img src="https://img.shields.io/badge/SpicesCode%2C%20Inc.-Startup%20Company-764ba2?style=for-the-badge" alt="Spicescode, Inc." />
   </a>
-  <a href="https://corp.spicescode.co.jp/">
-    <img src="https://img.shields.io/badge/Owner-hnakagawa-111111?style=for-the-badge" alt="Owner hnakagawa" />
-  </a>
 </p>
-
-</div>
 
 ---
 
